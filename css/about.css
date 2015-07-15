@@ -1,0 +1,35 @@
+#main-content {
+min-height: 600px;
+overflow:hidden;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+
+img.warehouse {
+ width: 600px;
+ float: right;
+  margin-left: 20px;
+  margin-right: 10px;
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+#main-content h1 {
+ margin-left: 40px;
+}
+
+
+div#main-container {
+ 	background-color: rgba(130, 130, 130, 0.7);
+}
+
+
+#main-content a {
+	text-decoration: none;
+	font-size: large;
+	color: black;
+}
+
+#main-content a:hover{
+ text-decoration: underline;
+}

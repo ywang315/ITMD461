@@ -1,0 +1,89 @@
+#main-content {
+ min-height: 700px;
+}
+
+
+#main-content .contact {
+  width:550px;
+  float:left;
+  margin: 0 20px 0 30px;
+}
+
+#map-canvas {
+ width: 550px;
+  height: 400px;
+  float: left;
+  margin: 25px 30px 0 20px;
+
+}
+
+.contact-info {
+  float:right;
+
+  width:550px;
+  margin:25px 30px 0 0;
+ 	background-color: rgba(140, 140, 140, 0.8);
+}
+
+#main-content h1{
+ margin-left:50px;
+
+}
+
+label {
+  display: block;
+  width: 120px;
+  float: left;
+  margin-left: 40px;
+}
+
+textarea {
+ width: 440px;
+  display:block;
+  margin: 0 auto;
+}
+
+#submit-button {
+display:block;
+  margin: 10px 40px 0 auto;
+}
+
+.text-input{
+  display: block;
+  width: 300px;
+  margin-left: auto;
+  margin-right: 40px;
+}
+
+fieldset {
+  display:block;
+ 	background-color: rgba(140, 140, 140, 0.8);
+
+}
+legend {
+  display:block;
+ 	background-color: rgba(140, 140, 140, 0.8);
+  font-size: large;
+  border-radius: 25px;
+  padding: 5px 10px;
+
+}
+
+
+#mailing {
+  float: left;
+  margin: 10px 50px 15px 100px;
+}
+#mailing p{
+ margin: 0;
+}
+#calling {
+  float: left;
+  margin: 10px 100px 15px 50px;
+}
+#calling p{
+ margin: 0;
+}
+
+
+

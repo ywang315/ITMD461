@@ -1,0 +1,60 @@
+#main-content {
+min-height: 600px;
+overflow:hidden;
+}
+
+
+
+#main-content div {
+  overflow:hidden;
+
+}
+
+#main-content img {
+ float:left;
+ clear:left;
+}
+
+
+#main-content img {
+ margin: 20px;
+  width: 200px;
+
+}
+
+#main-content h1, #main-content p {
+
+}
+
+
+#main-content #cups {
+
+ border-bottom: none;
+}
+
+#main-content .services, #main-content #products-and-services {
+  padding: 10px;
+ 	background-color: rgba(140, 140, 140, 0.4);
+  margin: 20px;
+      box-shadow: 3px 3px 5px 6px #ccc;
+
+}
+
+#products-and-services h1 {
+ margin-left: 30px;
+}
+
+#products-and-services p {
+
+}
+
+
+#main-content a {
+	text-decoration: none;
+	font-size: large;
+	color: black;
+}
+
+#main-content a:hover{
+ text-decoration: underline;
+}
